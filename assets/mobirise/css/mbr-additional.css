@@ -1398,6 +1398,29 @@ body {
 .cid-qKO9XbGwi2 .mbr-section-btn {
   text-align: center;
 }
+.cid-qKRZhja6p3 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qKRZhja6p3 .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qKRZhja6p3 .section-text {
+  padding: 2rem 0;
+}
+.cid-qKRZhja6p3 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qKRZhja6p3 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qKQACp4vVS {
   padding-top: 15px;
   padding-bottom: 15px;
