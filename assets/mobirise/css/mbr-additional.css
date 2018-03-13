@@ -1399,13 +1399,13 @@ body {
   text-align: center;
 }
 .cid-qKRZhja6p3 {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-qKRZhja6p3 .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #149dcc;
+  color: #149dcc;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1421,15 +1421,6 @@ body {
   .cid-qKRZhja6p3 .inner-container {
     width: 100% !important;
   }
-}
-.cid-qMa91q3w0L {
-  padding-top: 0px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-qMa91q3w0L .media-container-row .mbr-text {
-  color: #232323;
-  text-align: right;
 }
 .cid-qKQACp4vVS {
   padding-top: 15px;
