@@ -2356,6 +2356,27 @@ body {
   padding-bottom: 30px;
   background-image: url("../../../assets/images/img-4045-2000x1125.png");
 }
+.cid-qMcidDIaoe {
+  padding-top: 105px;
+  padding-bottom: 90px;
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
+}
+@media (min-width: 992px) {
+  .cid-qMcidDIaoe .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qMcidDIaoe .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qMcidDIaoe .mbr-text {
+    text-align: center;
+  }
+}
 .cid-qKSRDzRauO {
   padding-top: 90px;
   padding-bottom: 0px;
